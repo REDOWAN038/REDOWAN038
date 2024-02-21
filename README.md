@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/redowan ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redowan ibrahim" height="30" width="40" /></a>
-<a href="https://kaggle.com/redowan ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="redowan ibrahim" height="30" width="40" /></a>
-<a href="https://fb.com/redowan ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="redowan ibrahim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/redowan-ibrahim-589b602b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redowan-ibrahim-589b602b5" height="30" width="40" /></a>
+<a href="https://kaggle.com/redowanibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="redowanibrahim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/red2724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="red2724" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/red2724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="red2724" height="30" width="40" /></a>
 </p>
